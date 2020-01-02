@@ -18,15 +18,15 @@ client:
     We live and breathe by these words… SERVICE – INTEGRITY – COMMITMENT! Whether you are new to the market, thinking of moving up, or an experienced investor, my team and I have the expertise, proven track record, and resources to help you buy or sell your next home. Enthusiasm, area knowledge, technology savvy and personal concern for my clients’ interests combine to make us an outstanding resource for your real estate transaction. We work extensively to help Buyers and Sellers meet their real estate goals. Our power team brings a wealth of business and financial expertise to the table but mostly we understand and appreciate the TRUE meaning of Client SERVICE!
 
     Awards & Designations - Washingtonian Magazine 2015, 2016, 2017, 2018 and 2019 Top Realtor Team.
-  brand: The Gold Standard Group
-  brokerage: eXp Realty
+  brand: The Gold Standard Group with eXp Realty
+  brokerage: 
   market: Maryland
   address: 9211 Corporate Blvd., Suite 250 Rockville, MD 20850
   phone: 301-569-6921
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: admin@thegoldstandardgroup.com
   url: http://viewmarylandhouses.com
 
 CTAs:
@@ -66,8 +66,8 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/The-Gold-Standard-Group-160944322014/
   linkedin_url: https://www.linkedin.com/in/TheGoldStandardGroup
-  youtube_url: https://www.youtube.com/c/TinaCheung-TheGoldStandardGRoup
-  twitter_url: https://twitter.com/cheung_tina
+  youtube_url: https://www.youtube.com/channel/UCvaejIkfTGIWJvdLHqwWpWw?view_as=subscriber
+  twitter_url:
   instagram_url: https://www.instagram.com/thegoldstandardgroup/
   pinterest_url:
   zillow_url:
@@ -88,7 +88,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Maryland Real Estate Video Blog
+  hero_text: DVM Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
