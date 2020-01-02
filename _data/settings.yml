@@ -20,7 +20,7 @@ client:
     Awards & Designations - Washingtonian Magazine 2015, 2016, 2017, 2018 and 2019 Top Realtor Team.
   brand: The Gold Standard Group with eXp Realty
   brokerage: 
-  market: Maryland
+  market: 
   address: 9211 Corporate Blvd., Suite 250 Rockville, MD 20850
   phone: 301-569-6921
   phone_type:
@@ -31,23 +31,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.viewmarylandhouses.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.viewmarylandhouses.com/results-gallery/?photo=1&sort=importdate&status=A
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Maryland Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.viewmarylandhouses.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Maryland Home?"
     CTA_text2: "Search the entire MLS for your Maryland home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.viewmarylandhouses.com/results-gallery/?photo=1&sort=importdate&status=A
 
 lender:
   show_section: false
