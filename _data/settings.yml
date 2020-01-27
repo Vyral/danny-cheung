@@ -1,5 +1,5 @@
 audit_header: false
-title: Maryland Real Estate Video Blog with Danny Cheung
+title: MDMV Real Estate Video Blog with Danny Cheung
 description: Our mission at The Gold Standard Group is to be your best resource for Maryland real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Gold Standard Group, your professional Maryland Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -25,9 +25,9 @@ client:
   phone: 301-569-6921
   phone_type:
   phone2:
-  phone2_type:
-  email: admin@thegoldstandardgroup.com
-  url: http://viewmarylandhouses.com
+  phone2_type: 
+  email: admin@TheGoldStandardGroup.com
+  url: http://ViewMarylandHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
