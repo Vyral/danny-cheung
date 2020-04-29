@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Your Latest DMV Market Update
-date: 2020-04-29 20:59:40
+date: 2020-04-29 20:59:00
 tags:
   - Market Update
 excerpt: >-
   Despite the COVID-19 pandemic, homes are still selling in our DMV market at a
-  health rate.
+  healthy rate.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Danny+Cheung/Your+Latest+DMV+Market+Update.mp4
 pullquote:
